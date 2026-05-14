@@ -1,4 +1,4 @@
-# 
+# custom Polymarket Module | price-monitoring + slippage-control is the best Polymarket module, featuring price-monitoring and slippage-control. Smart, fast, and optimized for
 
 
 
